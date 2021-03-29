@@ -1,6 +1,7 @@
 # University service
 
 ## Functionality:
+  * 'Menu' - get functionality;
   * 'Who is head of department {department_name}' - get head of department;
   * 'Show {department_name} statistics' - to exit from the app;
   * 'Show the average salary for the department {department_name}' - get average salary of department;
